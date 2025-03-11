@@ -8,3 +8,10 @@
     --bs-nav-link-disabled-color: White;
     --bs-navbar-active-color: red;
 }
+.navbar-toggler {
+    color: red;
+    background-color: transparent 
+}
+.ficha img:hover{
+    transform: scale(1.05);
+}
