@@ -1,6 +1,6 @@
 /* Barra de navegación */
 body{
-    font-family: 'Times New Roman', Times, serif !important;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
 }
 .navbar{
     background-color: black;
@@ -39,12 +39,8 @@ body{
 
 .text-nosot {
     color: black;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: medium;
-}
-
-.ratio{
-
 }
 
 /* Contacto */
@@ -52,10 +48,22 @@ body{
     color: red;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+.car:hover{
+    background-color: gold !important;
+    transform: translateY(-10px);
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.3);
+}
 
 .letra{
     color: white;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.map{
+    background-color: black;
+}
+.map button{
+    background-color: red;
+    color: white;
 }
 
 /* Footer */
@@ -83,3 +91,4 @@ body{
 .red:hover{
     transform: scale(1.05);
 }
+>>>>>>>>> Temporary merge branch 2
