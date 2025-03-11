@@ -1,4 +1,7 @@
 /* Barra de navegación */
+body{
+    font-family: 'Times New Roman', Times, serif !important;
+}
 .navbar{
     background-color: black;
 }
@@ -8,6 +11,7 @@
     --bs-nav-link-disabled-color: White;
     --bs-navbar-active-color: red;
 }
+<<<<<<< HEAD
 .navbar-toggler {
     color: red;
     background-color: transparent 
@@ -15,3 +19,21 @@
 .ficha img:hover{
     transform: scale(1.05);
 }
+=======
+#imgprincipal{
+    background-image: url(Imagenes/img1.jpg) !important;
+    background-size: cover !important;
+    height: 550px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.precios{  
+    background-color: black !important;
+    color: red !important;
+}
+.textcard{
+    background-color: black !important;
+    color: white !important;
+}
+
+>>>>>>> 867a372ae83a45d75f841fe0efa854d3cc38157a
