@@ -8,3 +8,40 @@
     --bs-nav-link-disabled-color: White;
     --bs-navbar-active-color: red;
 }
+
+/* Contacto */
+.titulo{
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.letra{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* Footer */
+.links a{
+    color: white;
+}
+
+
+.icon{
+    color: #c1280f;
+}
+
+.red{
+    display: inline;
+    color: #c1280f;
+}
+
+.footer h3{
+    color: red;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.footer li:hover{
+    transform: scale(1.05);
+}
+.red:hover{
+    transform: scale(1.05);
+}
