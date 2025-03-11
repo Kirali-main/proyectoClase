@@ -1,0 +1,10 @@
+/* Barra de navegación */
+.navbar{
+    background-color: black;
+}
+.navbar a{
+    color: white;
+    --bs-nav-link-hover-color: red;
+    --bs-nav-link-disabled-color: White;
+    --bs-navbar-active-color: red;
+}
