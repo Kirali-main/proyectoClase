@@ -8,7 +8,6 @@
     --bs-nav-link-disabled-color: White;
     --bs-navbar-active-color: red;
 }
-<<<<<<< HEAD
 
 /* Contacto */
 .titulo{
@@ -26,9 +25,6 @@
     color: white;
 }
 
-links:hover {
-    color: rgb(122, 13, 13);
-}
 
 .icon{
     color: #c1280f;
@@ -43,5 +39,9 @@ links:hover {
     color: red;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
-=======
->>>>>>> c795fa779bde30e12a5478c7f97522434f6c44aa
+.footer li:hover{
+    transform: scale(1.05);
+}
+.red:hover{
+    transform: scale(1.05);
+}
