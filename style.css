@@ -5,12 +5,14 @@ body{
 .navbar{
     background-color: black;
 }
+
 .navbar a{
     color: white;
     --bs-nav-link-hover-color: red;
     --bs-nav-link-disabled-color: White;
     --bs-navbar-active-color: red;
 }
+
 #imgprincipal{
     background-image: url(Imagenes/img1.jpg) !important;
     background-size: cover !important;
@@ -32,3 +34,52 @@ body{
     box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.3);
 }
 
+
+
+
+.text-nosot {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+
+.ratio{
+
+}
+
+/* Contacto */
+.titulo{
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.letra{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* Footer */
+.links a{
+    color: white;
+}
+
+
+.icon{
+    color: #c1280f;
+}
+
+.red{
+    display: inline;
+    color: #c1280f;
+}
+
+.footer h3{
+    color: red;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.footer li:hover{
+    transform: scale(1.05);
+}
+.red:hover{
+    transform: scale(1.05);
+}
