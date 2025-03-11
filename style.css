@@ -1,6 +1,6 @@
 /* Barra de navegación */
 body{
-    font-family: 'Times New Roman', Times, serif !important;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
 }
 .navbar{
     background-color: black;
@@ -16,7 +16,7 @@ body{
 
 .text-nosot {
     color: black;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: medium;
 }
 
