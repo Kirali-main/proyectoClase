@@ -9,6 +9,18 @@
     --bs-navbar-active-color: red;
 }
 
+/* Contacto */
+.titulo{
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.letra{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* Footer */
 .links a{
     color: white;
 }
