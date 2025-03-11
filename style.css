@@ -2,9 +2,20 @@
 .navbar{
     background-color: black;
 }
+
 .navbar a{
     color: white;
     --bs-nav-link-hover-color: red;
     --bs-nav-link-disabled-color: White;
     --bs-navbar-active-color: red;
+}
+
+.text-nosot {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+
+.ratio{
+
 }
