@@ -11,29 +11,47 @@ body{
     --bs-nav-link-disabled-color: White;
     --bs-navbar-active-color: red;
 }
-<<<<<<< HEAD
-.navbar-toggler {
+
+/* Contacto */
+.titulo{
     color: red;
-    background-color: transparent 
-}
-.ficha img:hover{
-    transform: scale(1.05);
-}
-=======
-#imgprincipal{
-    background-image: url(Imagenes/img1.jpg) !important;
-    background-size: cover !important;
-    height: 550px;
-    background-repeat: no-repeat;
-    background-position: center;
-}
-.precios{  
-    background-color: black !important;
-    color: red !important;
-}
-.textcard{
-    background-color: black !important;
-    color: white !important;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
->>>>>>> 867a372ae83a45d75f841fe0efa854d3cc38157a
+.letra{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.map{
+    background-color: black;
+}
+.map button{
+    background-color: red;
+    color: white;
+}
+
+/* Footer */
+.links a{
+    color: white;
+}
+
+
+.icon{
+    color: #c1280f;
+}
+
+.red{
+    display: inline;
+    color: #c1280f;
+}
+
+.footer h3{
+    color: red;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.footer li:hover{
+    transform: scale(1.05);
+}
+.red:hover{
+    transform: scale(1.05);
+}
