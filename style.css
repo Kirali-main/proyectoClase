@@ -60,3 +60,24 @@ body{
 .red:hover{
     transform: scale(1.05);
 }
+/* Productos */
+#imgprincipal{
+    background-image: url(Imagenes/img1.jpg) !important;
+    background-size: cover !important;
+    height: 550px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.precios{  
+    background-color: black !important;
+    color: red !important;
+}
+.textcard{
+    background-color: black !important;
+    color: white !important;
+}
+.car:hover{
+    background-color: gold !important;
+    transform: translateY(-10px);
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.3);
+}
